@@ -1,0 +1,55 @@
+
+<html><head>
+<script language="JavaScript">
+<!--
+function makeget (frm,jw,jh,jt,jl) { // Recebe (formulario,largura,altura,top,left)
+var query = '?';
+    for(i = 0; i < frm.elements.length; i++) {
+        if(frm.elements[i].name != '') {
+        var val = escape(frm.elements[i].value);
+        var ctrl = false;
+            if(frm.elements[i].type == 'radio' ||
+                frm.elements[i].type == 'checkbox') {
+                if(frm.elements[i].checked == true) {
+                query += frm.elements[i].name +"="+ val;
+                ctrl = true;
+                }
+            } else {
+            query += frm.elements[i].name +"="+ val;
+            ctrl = true;
+            }
+        if(i < frm.elements.length - 1 && ctrl) query += "&";    
+        }
+    }
+window.open(frm.action+query,'_blank','resizable=yes,scrollbars=yes,top='+jt+',left='+jl+',height='+jh+',width='+jw);
+}
+-->
+</script></head>
+<!--
+makeget() simula o envio de um form por GET para uma nova janela,
+evitando que a página do formulário se atualize ao clicar em Enviar.
+O botão Enviar tem que ser button, se for um submit não adiantará nada...
+Este é um exemplo de como utilizar a função:
+-->
+<body>
+<form name="form1" method="post" action="teste-nova-janela.php">
+  <p>Formul&aacute;rio padr&atilde;o</p>
+  <p>nome: <input name="nome" type="text" id="nome"><br>
+    sexo: <select name="sexo" id="sexo">
+      <option value="masculino">M</option>
+      <option value="feminino">F</option>
+    </select><br>
+    &eacute; estudante?
+    <input type="radio" name="estudante" value="sim"> Sim
+    <input type="radio" name="estudante" value="nao"> N&atilde;o <br>
+    Leitura preferida:
+    <input name="leitura" type="checkbox" id="leitura" value="romance">
+    Romance
+    <input name="leitura2" type="checkbox" id="leitura2" value="acao">
+    A&ccedil;&atilde;o
+    <input name="leitura3" type="checkbox" id="leitura3" value="ficcao">
+    Fic&ccedil;&atilde;o<br>
+    coment&aacute;rios: <br>
+    <textarea name="textarea" cols="40" rows="5"></textarea></p>
+  <p><input type="button" value="Enviar" onClick="makeget(this.form,400,260,400,200)"></p>
+</form></body></html> 

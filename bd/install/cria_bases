@@ -1,0 +1,17 @@
+:
+
+grep postgres /etc/passwd
+if [ $? != "0" ]; then
+	echo "o postgres deve estar instalado para poder criar as bases sql" 
+	exit 1
+fi
+su - postgres -c "createdb victorelli"
+su - postgres -c "psql victorelli -f /home/fabio/site/victorelli/bd/install/bases/clientes"
+su - postgres -c "psql victorelli -f /home/fabio/site/victorelli/bd/install/bases/clientes_seq"
+su - postgres -c "psql victorelli -f /home/fabio/site/victorelli/bd/install/bases/produtos"
+su - postgres -c "psql victorelli -f /home/fabio/site/victorelli/bd/install/bases/produtos_seq"
+su - postgres -c "psql victorelli -f /home/fabio/site/victorelli/bd/install/bases/tiposprodutos"
+su - postgres -c "psql victorelli -f /home/fabio/site/victorelli/bd/install/bases/tiposprodutos_seq"
+su - postgres -c "psql victorelli -f /home/fabio/site/victorelli/bd/install/bases/pedidos"
+su - postgres -c "psql victorelli -f /home/fabio/site/victorelli/bd/install/bases/pedidos_seq"
+su - postgres -c "psql victorelli -c \"grant all on clientes, clientes_seq, produtos, produtos_seq, tiposprodutos, tiposprodutos_seq, pedidos, pedidos_seq to www;\" -q"

@@ -1,0 +1,6 @@
+create table produtos(
+numero text,
+nome text,
+descricao text,
+cod_tiposprodutos int4,
+cod_produto int4 DEFAULT nexTval ( 'produtos_seq')); 

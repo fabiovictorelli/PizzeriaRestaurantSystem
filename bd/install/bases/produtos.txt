@@ -1,0 +1,7 @@
+numero text,       // numero do produto      Ex: 01
+nome text,         // nome do produto        Ex: Alho e Oleo
+descricao text,    // descricao do produto   Ex: Mussarela, alho e azeite de oliva
+tipo text,         // tipo do produto, pode ser: tradicional,especial, premium,
+                   //           suprema,calzone,calzone especialou lazanha
+cod_produto int4   // é um sequencial do produto, para uso interno na programacao
+

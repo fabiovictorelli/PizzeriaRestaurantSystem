@@ -1,0 +1,108 @@
+Pizzas Tradicionais
+
+01- Alho e Óleo -Mussarela, alho e azeite de oliva.
+02- Banana -Mussarela, banana e canela.
+03- Brócolis-Mussarela e brócolis.
+04- Calabresa-Mussarela e calabresa.
+05- Catupiry-Mussarela e catupiry.
+06- Escarola-Mussarela e escarola.
+07- Frango-Mussarela e frango desfiado.
+08- Marguerita-Mussarela, tomate e manjericão.
+09- Milho-Mussarela e milho.
+10- Mussarela-Mussarela e orégano.
+11- Napolitana-Mussarela, presunto e tomate.
+12- Romana-Mussarela e presunto.
+13- Toscana-Mussarela, calabresa e cebola. 
+
+Pizzas Especiais
+
+20- Atum- Mussarela e Atum.
+21- Bacon-Mussarela e bacon.
+22- Baiana-Mussarela, calabresa, pimenta calab,cebola e ovos.
+23- Bolognesa-Mussarela e molho bolognesa.
+24- Brigadeiro-Leite Condensado, chocolate e granulado.
+25- Califórnia-Mussarela, Pêssego, abacaxi, figo e cereja.
+26- Champignon-Mussarela e champignon.
+27- Crocante-Mussarela, bacon  e  batata palha.
+28- Escarola c/ bacon-Mussarela, escarola e bacon.
+29- Fiorentina-Mussarela, milho, bacon e ovos.
+30- Frango calabresa-Muss., frango desfiado e calabresa.
+31- Frango catupiry-Mussarela, frango desfiado e catupiry.
+32- Frango palmito-Mussarela, frango desfiado e palmito.
+33- Hawaiana-Mussarela, presunto  e abacaxi.
+34- Light-Ricota, brócolis e  parmesão.
+35- Lombo canadense-Mussarela e lombo canadense.
+36- Marinara-Muss., atum, provolone, azeitona e molho.
+37- Milho c/  bacon-Mussarela, milho e bacon.
+38- Milho c/ catupiry-Mussarela, milho e catupiry.
+39- Parisiense-Mussarela, frango desfiado e ervilhas.
+40- Paulista -Mussarela, ervilha, palmito, milho e azeitona
+41- Peruana-Mussarela, atum, cebola, ervilha e azeitonas
+42- Portuguesa-Muss., Presunto, ovos, cebola e azeitonas.
+43- Provolone-Mussarela, Provolone e azeitonas.
+44- Prestígio-Leite condensado, chocolate e côco ralado.
+45- Romanesca-Muss., presunto, ovos, pimentão e cebola.
+46- Quatro Queijos-Muss., catupiry, provolone e  parmesão.
+47- Vegetariana-Muss, Milho, ricota, cebola, escarola e tomate.
+
+Pizzas Premium
+50- Alicce-Mussarela e alicce
+51- Bambina-Mussarela, calabresa, milho, ovos, palmito e catupiry.
+52- Champignon c/ catupiry-Mussarela, champignon e catupiry.
+53- Chocolate c/ Morango-Leite condensado, chocolate e morango.
+54- Cinco Queijos-Muss., provol., catupiry, parmesão e  gorgonzola
+55- Da casa-Mussarela, bacon, pimentão,  ovos, calabresa e milho.
+56- Escarola especial-Muss., Escarola, alho, cebola e parmesão.
+57- Escarola c/ Tomates secos-Muss., escarola  e tomates secos.
+58- Frango cheddar-Mussarela, frango desfiado e cheddar.
+59- Itália-Mussarela, molho parmegiana, alcaparras e manjericão.
+60- Lombo c/ catupiry-Mussarela, lombo canadense e catupiry.
+61- Lombo c/ champignon-Mussarela, lombo canadense  e champignon.
+62- Lombo c/ palmito-Mussarela, lombo canadense  e palmito.
+63- Palmito-Mussarela e Palmito.
+64- Palmito c/ catupiry-Mussarela, palmito e catupiry.
+65- Parma-Mussarela e  Presunto Parma.
+66- Parmegiana-Mussarela, presunto,  molho  parmegiana, e parmesão.
+67- Pepperoni-Mussarela, Pepperoni e azeitonas.
+68- Portuguesa premium-Mussarela, Parma, Cebola, Azeitonas pretas  e  Ovos.
+69- Rúcula c/ tomate seco-Mussarela, Tomate secos e rúcula.
+70- Siciliana-Mussarela, bacon, champignon e palmito.
+71- Sonho de valsa-Leite cond., chocolate e bombom sonho  valsa
+72- Strogonoff-Mussarela, Strogonoff de carne , batata palha e  champignon.
+
+Pizzas Suprema
+
+80- Funghi-Mussarela e funghi.
+81- Gorgonzola-Mussarela e gorgonzola.
+82- Mussarela  Búfala-Mussarela, Mussarela  de Búfala,tomates secos   e manjericão.
+83- Palmito c/ provolone-Mussarela, palmito e provolone.
+84- Parma c/ Tomates secos-Mussarela, parma e tomates secos.
+85- Ricota c/ Tomates secos-Mussarela, ricota  e tomates secos.
+86- Seis Queijos-Mussarela, Catupiry, Parmesão, Provolone, Gorgonzola e Cheddar.
+87- Tomates Secos-Mussarela, tomates secos  e manjericão.
+88- Venezia-Mussarela, Mussarela  de búfala,pepperoni, palmito e manjericão
+89- Veneto-Mussarela, Mussarela de búfala, parma,tomates secos   e  manjericão.
+
+Bordas
+Catupiry  Brotinho R$ 1,50 -  Grande R$ 2,00 -  Master R$ 2,50
+Cheddar   Brotinho R$ 2,00 -  Grande R$ 2,50 -  Master R$ 3,00
+
+=========
+
+Calzones - médio / grande
+100- Calzone Calabresa-Mussarela  e calabresa.
+101- Calzone Califórnia-Mussarela,  pêssego, abacaxi, cereja e figo.
+102- Calzone Frango-Mussarela, ricota, presunto e frango.
+
+Calzones Especiais - médio / grande
+103- Calzone Especial-Mussarela, ricota, calabresa frita,palmito,  milho e bacon.
+104- Calzone Frango catupiry-Mussarela, ricota, catupiry e frango desfiado.
+105- Calzone Portuguesa-Mussarela, Presunto, Ovos, cebola e azeitonas.
+106- Calzone Quatro Queijos-Mussarela, provolone, parmesão, catupiry e ricota.
+
+Lasanhas - média / grande
+
+110- Ao Sugo    
+112- Frango     
+111- Bolognesa  
+113- Quatro Queijos

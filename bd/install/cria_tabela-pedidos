@@ -1,0 +1,10 @@
+:
+
+grep postgres /etc/passwd
+if [ $? != "0" ]; then
+	echo "o postgres deve estar instalado para poder criar as bases sql" 
+	exit 1
+fi
+su - postgres -c "psql victorelli -f /home/fabio/site/bd/install/bases/pedidos"
+su - postgres -c "psql victorelli -f /home/fabio/site/bd/install/bases/pedidos_seq"
+su - postgres -c "psql victorelli -c \"grant all on pedidos, pedidos_seq to www;\" -q"

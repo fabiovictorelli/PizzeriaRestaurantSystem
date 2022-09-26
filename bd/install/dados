@@ -1,0 +1,7 @@
+COPY produtos (numero, nome, descricao, tipo, cod_produto) FROM stdin
+01      Alho e Oleos    Mussarela, alho e azeite de olivas      Pizzas Tradicionais     1
+03      Brocolis        Mussarela e Brocolis    Pizzas Tradicionais     5
+20      Atum    Mussarela e Atum        Pizzas Especiais        3
+02      Banana  Mussarela, banana e canela      Pizzas Tradicionais     2
+\.
+

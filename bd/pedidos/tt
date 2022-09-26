@@ -1,0 +1,7 @@
+      echo "<FORM ACTION=\"$HOME/bd/pedidos/dbpedepizza.php\" METHOD=\"POST\">";
+      echo "<INPUT TYPE=\"hidden\" NAME=\"cod_cliente\" VALUE=\"$cod_cliente\" ></INPUT>";
+      echo "<INPUT TYPE=\"hidden\" NAME=\"telefone\" VALUE=\"$auxfone\" ></INPUT>";
+      echo "<INPUT TYPE=\"hidden\" NAME=\"nome\" VALUE=\"$auxnome\" ></INPUT> ";
+      echo "<INPUT TYPE=\"hidden\" NAME=\"endereco\" VALUE=\"$auxendereco\" ></INPUT>";
+      echo "<INPUT TYPE=\"submit\" VALUE=\"PedirPizzas\"></INPUT>";
+      echo "</FORM>";

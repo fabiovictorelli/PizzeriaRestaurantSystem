@@ -1,0 +1,9 @@
+create table clientes(
+telefone text,
+nome text,
+endereco text,
+cep text,
+data_cadastro int,
+data_nascimento int,
+email text,
+cod_cliente int4 DEFAULT nexTval ( 'clientes_seq')); 

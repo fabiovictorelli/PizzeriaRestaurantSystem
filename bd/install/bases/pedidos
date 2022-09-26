@@ -1,0 +1,15 @@
+create table pedidos(
+data_pedido int,
+cod_cliente int,
+local varchar,
+nummesa varchar,
+numpizza varchar,
+valoralimentos varchar,
+valorbebidas varchar,
+taxaentrega varchar,
+valortotal varchar,
+troco varchar,
+trocado varchar,
+observacao varchar,
+arraypedidos varchar,
+numero int4 DEFAULT nexTval ( 'pedidos_seq')); 

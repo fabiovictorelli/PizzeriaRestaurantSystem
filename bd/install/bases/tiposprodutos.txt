@@ -1,0 +1,6 @@
+table tipoproduto(
+nome text,                            // nome do produto  Ex.: Pizzas Tradicionais
+valor-broto text,                     // valor da broto   Ex.: 7,90 
+valor-grande text,                    // valor da grande  Ex.: 9,90  
+valor-master text,                    // valor da master  Ex.: 12,90    
+cod_tipoproduto int4 DEFAULT nexTval ( 'tipoproduto_seq'));       // codigo do tipo 

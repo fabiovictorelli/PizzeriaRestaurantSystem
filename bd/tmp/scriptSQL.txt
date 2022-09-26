@@ -1,0 +1,54 @@
+# MySQL-Front Dump 2.5
+#
+# Host: localhost   Database: x
+# --------------------------------------------------------
+# Server version 3.23.47-nt
+
+USE x;
+
+
+#
+# Table structure for table 'grupo'
+#
+
+DROP TABLE IF EXISTS grupo;
+CREATE TABLE grupo (
+  cod int(3) NOT NULL auto_increment,
+  descr varchar(20) default '0',
+  PRIMARY KEY  (cod)
+) TYPE=MyISAM;
+
+
+
+#
+# Dumping data for table 'grupo'
+#
+
+INSERT INTO grupo VALUES("1", "Grupo Um");
+INSERT INTO grupo VALUES("2", "Grupo Dois");
+INSERT INTO grupo VALUES("3", "Grupo Tres");
+INSERT INTO grupo VALUES("4", "Grupo Quatro");
+
+
+#
+# Table structure for table 'subgrupo'
+#
+
+DROP TABLE IF EXISTS subgrupo;
+CREATE TABLE subgrupo (
+  cod int(3) NOT NULL default '0',
+  descr varchar(30) default '0'
+) TYPE=MyISAM;
+
+
+
+#
+# Dumping data for table 'subgrupo'
+#
+
+INSERT INTO subgrupo VALUES("1", "Item Um de 1");
+INSERT INTO subgrupo VALUES("2", "Item Um de 2");
+INSERT INTO subgrupo VALUES("2", "Item Dois de 2");
+INSERT INTO subgrupo VALUES("3", "Item Um de 3");
+INSERT INTO subgrupo VALUES("3", "Item Dois de 3");
+INSERT INTO subgrupo VALUES("3", "Item Tres de 3");

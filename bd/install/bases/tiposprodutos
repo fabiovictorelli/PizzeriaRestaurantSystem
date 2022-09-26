@@ -1,0 +1,8 @@
+create table tiposprodutos(
+nome text,
+valorbroto  float,
+valormedio  float,
+valorgrande float,
+valormaster float,
+valorbig    float,
+cod_tiposprodutos int4 DEFAULT nexTval ( 'tiposprodutos_seq')); 

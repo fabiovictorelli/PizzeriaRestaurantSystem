@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"PO-Revision-Date: YYYY-MM-DD HH:MM TZO DST\n"
+"Last-Translator: \n"
+"Language-Team: <XX@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+
+
+
+
+msgid "Back"
+msgstr "Retornar"
+
+msgid "CEFETPR"
+msgstr "CEFETPR"
+
+msgid "Courses"
+msgstr "Cursos"
+
+msgid "Distance Learning"
+msgstr "Educação a Distância"
+
+msgid "DISTANCE LEARNING"
+msgstr "EDUCAÇÃO A DISTÂNCIA"
+
+msgid "Inicial Page"
+msgstr "Página Inicial"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Lists"
+msgstr "Listas"
+
+msgid "Mail to Webmaster"
+msgstr "Email para o Webmaster"
+
+msgid "Others ED's"
+msgstr "Outros ED's "
+
+msgid "Reestarting the System"
+msgstr "Reativação do Sistema ED"
+
+msgid "Search at Universities"
+msgstr "Procurando em Universidades"
+  
+msgid "Start"
+msgstr "Início"
+  
+msgid "Students"
+msgstr "Alunos"
+  
+msgid "Teacher"
+msgstr "Professor"
+
+msgid "Videos"
+msgstr "Videos"
+  
+msgid "What is ?"
+msgstr "O que é ?"
+
+msgid "WebMaster"
+msgstr "Webmaster"
+
+msgid "WebMaster Page"
+msgstr "Página do Webmaster"
+

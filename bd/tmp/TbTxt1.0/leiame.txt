@@ -1,0 +1,17 @@
+||||||||||||||
+|| TbTxt1.0 ||
+||||||||||||||
+
+Esse script lê o conteúdo de um arquivo texto
+separa seus registros como em um DB, formata-os 
+em uma tabela com cores das linhas alternadas
+e a opção de uma terceira cor para destacar
+valores específicos.
+você poderá também inserir registros, exibir
+registro selecionado, ocultar registro selecionado.
+Apagar registro do arquivo txt (apenas com IE e NS6).
+-------------------------------------------------------
+Configure as opções de cores no arquivo config.inc
+
+                                 
+                                 Di@s                               

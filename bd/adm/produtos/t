@@ -1,0 +1,1 @@
+      echo "<option value=$cod_tiposprodutos>$nome";

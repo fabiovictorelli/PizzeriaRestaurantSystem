@@ -1,0 +1,7 @@
+
+grep postgres /etc/passwd
+if [ $? != "0" ]; then
+        echo "o postgres deve estar instalado para poder criar as bases sql"
+        exit 1
+fi
+su - postgres -c "dropdb victorelli"
