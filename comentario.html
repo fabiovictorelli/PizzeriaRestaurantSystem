@@ -1,0 +1,67 @@
+<html><head><title>Form de Comentario</title>
+	
+
+<script>
+function validate() {
+
+check=form.querresposta.value;
+if (!(form.querresposta[0].checked || form.querresposta[1].checked)) {
+alert('Voce deve selecionar se voce deseja que alguém do Restaurante Victorelli entre em contato contigo.');
+event.returnValue=false;
+}
+	
+}	
+</script></head>
+<body text="Maroon" alink="blue" link="blue">
+
+
+<center>
+
+	<img src="images/logo.jpg" width="320" height="112">
+  
+<form action="cgi-bin/comentarios.cgi" method="post" name="form" onsubmit="validate();" &="" return="" (confirm('are="" you="" sure="" want="" to="" submit="" this="" form="">
+<table cellpadding="3" width="400">
+	<tbody><tr>
+			<td><font size="3"><b>1. Nome:</b></font></td>
+			<td><input name="nome" size="35" maxlength="35"></td>
+		</tr>
+		<tr>
+			<td><font size="3"><b>2. Endereço:</b></font></td>
+			<td><input name="endereco" size="35" maxlength="85"></td>
+		</tr>
+		<tr>
+			<td><font size="3"><b>3. Cidade:</b></font></td>
+			<td><input name="cidade" size="35" maxlength="85"></td>
+		</tr>
+		<tr>
+    		<td><font size="3"><b>4. Fone :</b></font></td>
+			<td><input name="fone" size="35" maxlength="35"></td>
+		</tr>
+		<tr>
+    		<td><font size="3"><b>5. E-Mail:</b></font></td>
+			<td><input name="email" size="35" maxlength="45"></td>
+		</tr>
+	</tbody></table>
+	<table width="400" cellpadding="3">
+    	<tbody><tr>
+    		<td><font size="3"><b>6. Comentário:</b></font></td>
+		</tr>
+		<tr>
+			<td><textarea cols="50" name="comentario" rows="4" wrap="physical"></textarea></td>
+		</tr>
+	<tr>
+		
+		<td align="center">
+    		<h5>
+		Voce deseja que alguém do Restaurante Victorelli entre em contato com voce?<small><br></small>	
+		<input type="radio" name="querresposta" value="Sim">Sim
+		<input type="radio" name="querresposta" value="Nao"> Não
+    		</h5>
+		<input type="submit" value="Envia"> <input type="reset" value="Apaga"></td>
+	</tr>
+</tbody></table>
+</form>
+
+</center>
+
+</body></html>

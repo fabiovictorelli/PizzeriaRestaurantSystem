@@ -1,0 +1,163 @@
+
+
+
+                     DESENVOLVE SOLUCOES DE INTERNET LTDA
+                      TeHospedo - Divisao de Hospedagem
+                          http://tehospedo.com.br
+   
+DADOS DA CONTA
+---------------------------------------------------------------------------------
+nome do cliente:        Fabio Dorival Victorelli
+dominio hospedado:      victorellis.com
+
+Caro responsavel pelo site victorellis.com,
+                                                                                                                                                                                    
+Acabamos de criar sua conta. Por favor, leia este email ate o
+fim e guarde-o para futura consulta. Nele consta todos os dados
+necessarios para ativar e utilizar sua conta.
+                                                                                                                                                                                    
+-----------------------------------------------------------------
+SISTEMA DE ATENDIMENTO
+-----------------------------------------------------------------
+                                                                                                                                                                                    
+Caso precise qualquer ajuda nao hesite em nos contatar.
+                                                                                                                                                                                    
+- Telefone:             (51) 3227-7727
+- Suporte por Chat:     http://tehospedo.com.br/
+- Suporte por Email:    http://tehospedo.com.br/atendimento/
+- FAQ/Ajuda Online:     http://tehospedo.com.br/ajuda/
+                                                                                                                                                                                   
+Horario de atendimento por telefone e chat:
+Segunda a Sexta das 9:30 as 12:00 e das 13:00 as 18:30 horas
+
+
+-----------------------------------------------------------------
+ATIVANDO SUA CONTA
+-----------------------------------------------------------------
+                                                                                                                                                                                    
+O primeiro passo para ativacao efetiva de sua conta e' mudar os
+servidores de DNS no orgao que registrou seu dominio ou entao
+criar seu dominio.
+                                                                                                                                                                                    
+Abaixo estao os servidores de DNS para os quais deverao ser
+modificados no orgao de registro de dominios:
+                                                                                                                                                                                    
+DNS Primario:    dns9.tehospedo.com.br    IP: 69.57.142.15
+DNS Secundario:  dns10.tehospedo.com.br   IP: 69.57.143.147
+                                                                                                                                                                                    
+
+-----------------------------------------------------------------
+DADOS DE ACESSO A SUA NOVA CONTA 
+-----------------------------------------------------------------
+
+enderecos de acesso ao seu site: 
+- http://victorellis.com/
+- http://www.victorellis.com/
+
+antes da publicacao do dominio pode ser utilizado:
+- http://neo.tehospedo.com.br/victorellis.com
+
+-----------------------------------------------------------------
+
+acesso ao painel de controle:
+- http://victorellis.com/admin
+login:         victorellis
+domain:        victorellis.com
+password:      kixdkP3eg5
+
+-----------------------------------------------------------------
+
+acesso por ftp:
+hostname:      ftp.victorellis.com ou neo.tehospedo.com.br
+usuario:       victorellis#victorellis.com
+senha:         kixdkP3eg5
+
+instrucoes de uso do ftp:
+1) os arquivos do seu site devem ser enviados para a pasta 
+mainwebsite_html para html e mainwebsite_cgi para arquivos
+de cgi;
+2) antes do envio do seu site, apague apenas o arquivo index.html
+e o diretorio images
+
+para acesso por FTP aconselhamos o uso dos seguintes programas:
+- windows:   CuteFTP 4.0 em Portugues:
+ftp://ftp.cuteftp.com/pub/cuteftp/portuguese/cutePG4032.exe
+- linux:     gFTP
+http://gftp.seul.org/
+
+observacoes:
+1) nao damos suporte para utilizacao do software de ftp
+2) existe uma interface pelo painel de controle chamada
+"file manager" para enviar os arquivos 
+                                                                                                                                                                                    
+-----------------------------------------------------------------
+
+configuracao do seu email:
+email:         victorellis@victorellis.com
+servidor smtp: mail.victorellis.com
+servidor pop3: mail.victorellis.com
+usuario:       victorellis#victorellis.com
+senha:         kixdkP3eg5
+
+instrucoes de configuracao:
+marque a opcao "meu servidor requer autenticacao" nas opcoes
+de configuracoes do seu leitor de email
+
+-----------------------------------------------------------------
+
+utilizando seu webmail:
+endereco:      http://victorellis.com/webmail/
+email:         victorellis@victorellis.com
+senha:         kixdkP3eg5
+
+-----------------------------------------------------------------
+
+administracao do banco de dados mySQL:
+phpmyadmin:    https://neo.tehospedo.com.br/mysql/
+usuario:       victorellis
+senha:         precisa ser alterada pelo painel de controle
+
+dados de mysql:
+hostname:      localhost
+username:      victorellis
+password:      precisa ser alterada pelo painel de controle
+
+instrucoes para alteracao da senha do mySQL:
+1) entre no seu painel de controle
+2) clique em MYSQL -> Change Password
+3) digite a nova senha de mySQL e confirme
+
+note que BancoDeDados e' o nome do BancoDeDados que tera que
+ser criado de acordo com as instrucoes:
+1) entre no seu painel de controle
+2) clique em MYSQL ->  MySQL Admin Tool
+3) clique em Create Database
+4) de um nome ao seu banco de dados
+
+O nome de sua database sera 
+victorellis_com_-_BancoDeDados, onde
+BancoDeDados e' o nome que foi configurado atraves do passo
+4 acima.
+
+-----------------------------------------------------------------
+
+utilizacao dos scripts pre-configurados:
+- processador de formulario (formmail):
+documentacao:   http://victorellis.com/kitcgi/formmail/manual.html
+exemplo:        http://victorellis.com/kitcgi/formmail/teste.html
+
+- contador grafico de visitas:
+exemplos:       http://victorellis.com/kitcgi/counter/teste.html
+
+-----------------------------------------------------------------
+
+-- Sua satisfacao e' nosso lucro --
+
+Atenciosamente,
+ 
+Departamento de Hospedagem                    Horario de atendimento
+hospedagem@tehospedo.com.br                   De Seg a Sex, das 9:30h 
+as 18:30h
+Telefone: (51) 3227-7727                      FAX: (51) 3286-3799
+
+
